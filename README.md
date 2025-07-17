@@ -47,4 +47,4 @@
 ---
 
 **Obrigada por visitar meu perfil!**  
-Vamos nos conectar? 💻🤝  
+Vamos nos conectar? 💻🫱🏼‍🫲🏾  
