@@ -1,4 +1,4 @@
-##👋🏾 Olá, eu sou a Clarisse!
+## 👋🏾 Olá, eu sou a Clarisse!
 
 🎓 Sou uma entusiasta da **Análise de Dados**, apaixonada por transformar dados em informações valiosas.  
 🌱 Atualmente estou em transição de carreira e dando meus primeiros passos nesse universo fascinante de **Dados, BI e MySQL**.
