@@ -1,15 +1,15 @@
 ## 👋🏾 Olá, eu sou a Clarisse!
 
-🎓 Sou uma entusiasta da **Análise de Dados**, apaixonada por transformar dados em informações valiosas.  
-🌱 Atualmente estou em transição de carreira e dando meus primeiros passos nesse universo fascinante de **Dados, BI e MySQL**.
+🎓 Sou uma analista de dados em formação, apaixonada por transformar dados em insights que apoiam decisões e geram impacto real.  
+🌱 Estou em transição para a área de Dados, BI e MySQL, construindo um portfólio sólido com projetos reais que utilizam Power BI, Excel, SQL e Python.
 
 ---
 
 ### 💡 Sobre mim
 
-- 📊 Estou aprendendo **Power BI**, **Excel Avançado**, **MySQL** e **Python para análise de dados**.
-- 🧠 Adoro **descobrir padrões nos dados**, contar histórias e ajudar na tomada de decisões com insights claros.
-- 📍 Moro no **Rio Grande do Sul, Brasil** e tenho me dedicado a projetos com **dados públicos**, como enchentes, saúde e educação.
+- 📊 Estudando **Power BI, Excel Avançado, MySQL e Python** focado em análise de dados.  
+- 🔍 Adoro descobrir padrões, contar histórias com dados e criar dashboards intuitivos e claros.  
+- 🌎 Moro no **Rio Grande do Sul, Brasil**.  
 - 📚 Estou constantemente estudando para evoluir como profissional e criar um portfólio incrível!
 
 ---
@@ -25,12 +25,15 @@
 
 ---
 
-### 🚀 Projetos em andamento
+## 🚧 Projetos em andamento
 
-- 📌 **Impacto das enchentes no RS (2024)** – Análise de dados reais com Excel e Power BI.
-- 📌 **Câncer de Mama – Diagnóstico em Dados** – Visual interativo em Power BI com dark mode e rosa neon.
+- 📌 **Impacto das enchentes no RS (2024)** – Análise de dados reais com Excel e Power BI.  
+- 📌 **Câncer de Mama – Diagnóstico em Dados** – Dashboard interativo em Power BI (dark mode + rosa neon).  
+- 📌 **Relatório de Vendas – Power BI** – Dashboard completo com metas, faturamento e comparação por campus.
 
-*Todos os projetos estão sendo publicados no meu https://github.com/clarissemaurila.*
+🔗 Veja todos os meus projetos:  
+https://github.com/clarissemaruila
+
 
 ---
 
